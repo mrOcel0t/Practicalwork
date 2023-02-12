@@ -1,0 +1,10 @@
+1,Vladislav Krapivin,Gusi Gusi ga ga ga,Russia,1988
+2,Arkady and Boris Strugatskie,Ponedelnik nachinaetsy v subboty,Russia,1964
+3,Rey Bradbarry,Marsianskie chroniki,USA,1950
+4,Kir Bulichev, Devochka s kotoroy nichego ne sluchilos,Russia,1965
+5,Michael Bulgakov,Sobachie serdce,Russia,1925
+6,Oldos Hasli,O divniy noviy mir,England,1932
+7,Herbert Wells, Mashina Vremeni,England,1895
+8,Arture Conan Doil,Marakatova besdna,England,1929
+9,Grigory Adamov,Taina dvuh okeanov,Russia,1939
+10,Stanislav Lem,Solyaris,Poland,1961
